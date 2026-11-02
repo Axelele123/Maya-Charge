@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="760" height="460" fill="white"/>
+<text x="380.0" y="26" font-size="17" font-weight="700" text-anchor="middle" fill="#222">Monte Carlo driver ranking (Spearman rank correlation with NPV)</text>
+<rect x="70" y="46" width="666" height="360" fill="none" stroke="#444" stroke-width="1"/>
+<text x="403.0" y="446" font-size="13" text-anchor="middle" fill="#444">Rank correlation with NPV</text>
+<text x="18" y="226.0" font-size="13" text-anchor="middle" fill="#444" transform="rotate(-90 18 226.0)"></text>
+<line x1="403.0" y1="46" x2="403.0" y2="406" stroke="#444"/>
+<rect x="403.0" y="374.0" width="1.9" height="24.0" fill="#1f4e79"/>
+<text x="64" y="390.0" font-size="11" text-anchor="end" fill="#222">Energy sold / unit</text>
+<text x="410.9" y="390.0" font-size="11" text-anchor="start" fill="#222">0.01</text>
+<rect x="400.7" y="334.0" width="2.3" height="24.0" fill="#c55a11"/>
+<text x="64" y="350.0" font-size="11" text-anchor="end" fill="#222">Discount rate</text>
+<text x="394.7" y="350.0" font-size="11" text-anchor="end" fill="#222">-0.01</text>
+<rect x="393.9" y="294.0" width="9.1" height="24.0" fill="#c55a11"/>
+<text x="64" y="310.0" font-size="11" text-anchor="end" fill="#222">Fixed operating cost</text>
+<text x="387.9" y="310.0" font-size="11" text-anchor="end" fill="#222">-0.03</text>
+<rect x="403.0" y="254.0" width="16.5" height="24.0" fill="#1f4e79"/>
+<text x="64" y="270.0" font-size="11" text-anchor="end" fill="#222">Retail tariff</text>
+<text x="425.5" y="270.0" font-size="11" text-anchor="start" fill="#222">0.05</text>
+<rect x="403.0" y="214.0" width="17.6" height="24.0" fill="#1f4e79"/>
+<text x="64" y="230.0" font-size="11" text-anchor="end" fill="#222">Unit rollout</text>
+<text x="426.6" y="230.0" font-size="11" text-anchor="start" fill="#222">0.05</text>
+<rect x="385.1" y="174.0" width="17.9" height="24.0" fill="#c55a11"/>
+<text x="64" y="190.0" font-size="11" text-anchor="end" fill="#222">Electricity cost</text>
+<text x="379.1" y="190.0" font-size="11" text-anchor="end" fill="#222">-0.05</text>
+<rect x="381.3" y="134.0" width="21.7" height="24.0" fill="#c55a11"/>
+<text x="64" y="150.0" font-size="11" text-anchor="end" fill="#222">Non-energy cost / unit</text>
+<text x="375.3" y="150.0" font-size="11" text-anchor="end" fill="#222">-0.07</text>
+<rect x="365.5" y="94.0" width="37.5" height="24.0" fill="#c55a11"/>
+<text x="64" y="110.0" font-size="11" text-anchor="end" fill="#222">Capital cost / unit</text>
+<text x="359.5" y="110.0" font-size="11" text-anchor="end" fill="#222">-0.11</text>
+<rect x="403.0" y="54.0" width="323.8" height="24.0" fill="#1f4e79"/>
+<text x="64" y="70.0" font-size="11" text-anchor="end" fill="#222">Advertising realization</text>
+<text x="732.8" y="70.0" font-size="11" text-anchor="start" fill="#222">0.97</text>
+<line x1="70.0" y1="406" x2="70.0" y2="411" stroke="#444"/>
+<text x="70.0" y="426" font-size="11" text-anchor="middle" fill="#444">-1</text>
+<line x1="236.5" y1="406" x2="236.5" y2="411" stroke="#444"/>
+<text x="236.5" y="426" font-size="11" text-anchor="middle" fill="#444">-0.5</text>
+<line x1="403.0" y1="406" x2="403.0" y2="411" stroke="#444"/>
+<text x="403.0" y="426" font-size="11" text-anchor="middle" fill="#444">0</text>
+<line x1="569.5" y1="406" x2="569.5" y2="411" stroke="#444"/>
+<text x="569.5" y="426" font-size="11" text-anchor="middle" fill="#444">0.5</text>
+<line x1="736.0" y1="406" x2="736.0" y2="411" stroke="#444"/>
+<text x="736.0" y="426" font-size="11" text-anchor="middle" fill="#444">1</text>
+</svg>
